@@ -8,5 +8,5 @@
 
 **Welcome to Uroria!**
 
-We develop Minecraft related Software (unaffiliated with Mojang).
+We develop Minecraft related Software (not affiliated with Mojang).
 Feel free to contribute and have a look on our [Discord](https://dc.uroria.com)!
